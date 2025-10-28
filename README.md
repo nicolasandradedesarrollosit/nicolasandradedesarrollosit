@@ -29,7 +29,6 @@ Desarrollador Full Stack apasionado por construir aplicaciones web modernas y es
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-007ACC?style=for-the-badge&logo=docker&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
@@ -73,6 +72,6 @@ const miPerfil = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicol%C3%A1s-andrade-a5a7a136a/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolasandradedesarrollos@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=github&logoColor=blue)](https://nicolasandradedesarrollosit.github.io/NicolasAndrade.Dev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-007ACC?style=for-the-badge&logo=github&logoColor=blue)](https://nicolasandradedesarrollosit.github.io/NicolasAndrade.Dev/)
 
 </div>
