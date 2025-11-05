@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy un Desarrollador Full Stack
+# 👋 ¡Hola! Soy Ingeniero de Software
 
 <div align="center">
   
