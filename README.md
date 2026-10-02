@@ -67,6 +67,14 @@ I own features end to end, from UI to API, database and LLM integration. So far 
 
 ---
 
+### 🌱 Currently learning
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Kong](https://img.shields.io/badge/Kong-003459?style=flat&logo=kong&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+
+---
+
 ### 📊 GitHub stats
 
 <p align="center">
